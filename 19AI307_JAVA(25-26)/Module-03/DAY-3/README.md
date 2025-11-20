@@ -38,8 +38,8 @@ To write a Java program using an abstract class GameScore with subclasses Arcade
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: JANARTHANAN V K
-Register Number: 212222230051
+Developed by: SELVAJOEL S
+Register Number: 212222220040
 */
 ```
 
@@ -98,6 +98,7 @@ public class prog {
 
 ## RESULT:
 The program successfully demonstrates abstraction and inheritance by computing the final score for different game types using subclass-specific logic.
+
 
 
 
